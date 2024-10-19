@@ -1,1 +1,14 @@
 /* typography */
+@font-face {
+    font-family: 'Garamond';
+    font-style: normal;
+    font-weight: 100 900;
+    src: url('/src/fonts/EBGaramond-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Garamond';
+    font-style: italic;
+    font-weight: 100 900;
+    src: url('/src/fonts/EBGaramond-Italic-VariableFont_wght.ttf') format('truetype');
+}
