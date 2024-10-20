@@ -26,8 +26,5 @@ You are not using Netlify CMS for this project - Netlify no longer supports thei
 
 With that in mind, you can [watch this video](https://youtu.be/4wD00RT6d-g) to see how Kevin used Eleventy, Netlify, and Netlify CMS to create a full-featured blog site built entirely with static files.
 
-## Credit for Images
-Daniil Silantev https://unsplash.com/@betagamma
-Allen Y https://unsplash.com/@yanahd
-Dilip Zrnzevic https://unsplash.com/@filipz
-Ivan Lopatin https://unsplash.com/@johnnyrgb
+## Credit for Image
+Filip Zrnzevic https://unsplash.com/@filipz
