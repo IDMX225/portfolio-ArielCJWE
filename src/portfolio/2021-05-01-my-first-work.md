@@ -1,7 +1,7 @@
 ---
 title: My First Work
 author: Ariel Wong-Edwin
-date: 2021-10-06
+date: 2024-10-06
 tags: ['post']
 image: /assets/portfolio/Screenshot 2024-10-20 090311.png
 imageAlt: "My First Article"

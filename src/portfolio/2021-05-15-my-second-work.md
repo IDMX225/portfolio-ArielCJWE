@@ -1,7 +1,7 @@
 ---
 title: My Second Work
 author: Ariel Wong-Edwin
-date: 2021-05-15
+date: 2024-10-11
 tags: ["post", "featured"]
 image: /assets/portfolio/codepen.io_ArielCJWE_pen_oNKBzKY(PC Screen).png
 imageAlt: This is a test My Second Article
