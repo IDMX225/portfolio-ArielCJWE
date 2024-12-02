@@ -13,4 +13,4 @@ In this project I took an emoji and make a product card for a fictional business
 
 Upon working, I left his code alone and placed all of my own code at the bottom, using cascade to help change from his property values to yours.
 
-Take a look at the code pen and examin the code: https://codepen.io/ArielCJWE/pen/oNKBzKY
+Take a look at the code pen and examin the code: [Codepen](https://codepen.io/ArielCJWE/pen/oNKBzKY "Visit this page!")
